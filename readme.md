@@ -6,7 +6,7 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=axeozeu&data=followers,repositories,stars,commits&theme=rgb">
   <br>
 
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,js,java,kotlin,c++,c#&theme=rgb&includeNames=true">
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,js,java,kotlin,c#&theme=rgb&includeNames=true">
   <br>
   
 </p>
